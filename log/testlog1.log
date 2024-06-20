@@ -1,0 +1,16 @@
+2024-06-19 16:25:21,439 [main] INFO Google Search - Chrome browser launched
+2024-06-19 16:25:21,475 [main] INFO Google Search - Browser window maximized
+2024-06-19 16:28:20,032 [main] INFO Google Search - Chrome browser launched
+2024-06-19 16:28:20,075 [main] INFO Google Search - Browser window maximized
+2024-06-19 16:31:57,464 [main] INFO Google Search - Chrome browser launched
+2024-06-19 16:31:57,506 [main] INFO Google Search - Browser window maximized
+2024-06-19 16:32:00,831 [main] INFO Google Search - Launch the google application
+2024-06-19 16:32:00,904 [main] INFO Google Search - Log4j text enter in google search field
+2024-06-19 16:32:02,918 [main] INFO Google Search - Wait for 2 seconds
+2024-06-19 16:32:03,208 [main] INFO Google Search - Enter button pressed google search
+2024-06-19 16:33:01,034 [main] INFO Google Search - Chrome browser launched
+2024-06-19 16:33:01,075 [main] INFO Google Search - Browser window maximized
+2024-06-19 16:33:05,491 [main] INFO Google Search - Launch the google application
+2024-06-19 16:33:05,563 [main] INFO Google Search - Log4j text enter in google search field
+2024-06-19 16:33:08,577 [main] INFO Google Search - Wait for 3 seconds
+2024-06-19 16:33:08,859 [main] INFO Google Search - Enter button pressed google search
